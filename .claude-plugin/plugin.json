@@ -1,0 +1,9 @@
+{
+  "name": "straight-talk",
+  "description": "No sycophancy, no fluff. Direct and honest communication style for Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "David Campey"
+  },
+  "license": "MIT"
+}
